@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="TeknoReviewku - Ulasan Headphone dengan Kualitas Suara Premium">
+    <title>Review Headphone Terbaik</title>
+</head>
+<body>
+    <header>
+        <h1>Review Headphone dengan Kualitas Suara Premium</h1>
+    </header>
+    <main>
+        <p>Headphone berkualitas adalah kunci untuk pengalaman audio terbaik. Temukan ulasan kami tentang headphone premium di sini.</p>
+        <p>Berikut adalah rekomendasi headphone pilihan:</p>
+        <ul>
+            <li>Headphone A - Kualitas suara jernih dengan bass mendalam, ideal untuk musik dan film.</li>
+            <li>Headphone B - Desain ergonomis dan noise cancelling terbaik, cocok untuk perjalanan.</li>
+            <li>Headphone C - Headphone gaming dengan mikrofon berkualitas untuk komunikasi jelas.</li>
+        </ul>
+        <a href="index.html">Kembali ke Beranda</a>
+    </main>
+    <footer>
+        <p>&copy; 2025 TeknoReviewku. Semua Hak Dilindungi.</p>
+    </footer>
+</body>
+</html>
